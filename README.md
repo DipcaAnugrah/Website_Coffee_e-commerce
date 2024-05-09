@@ -35,3 +35,6 @@ Integrasi dengan sistem pembayaran yang memungkinkan pengguna untuk melakukan pe
 Fitur yang mengirimkan pemberitahuan kepada pengguna tentang status pesanan, konfirmasi pembayaran, pengiriman, dan informasi penting lainnya terkait transaksi yang dilakukan.
 13.	Sistem Keamanan:
 Langkah-langkah keamanan yang diimplementasikan untuk melindungi informasi pengguna, data transaksi, dan integritas sistem secara keseluruhan. Ini termasuk enkripsi data, perlindungan terhadap serangan cyber, dan manajemen akses yang aman.
+
+## Use Case
+![UseCaseCoffee](https://github.com/DipcaAnugrah/Website_Coffee_e-commerce/assets/115638135/ccb3b995-da57-47e5-9fcf-41f7d1511a48)
